@@ -1,95 +1,95 @@
 
         <!DOCTYPE html>
         <head>
-            
-        
+
+
             <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-        
-            
-        
+
+
+
             <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js"></script>
-        
-        
-        
-            
-        
+
+
+
+
+
             <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-        
-        
-        
-            
-        
+
+
+
+
+
             <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-        
-        
-        
-            
-        
+
+
+
+
+
             <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.min.js"></script>
-        
-        
-        
-            
-        
+
+
+
+
+
             <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster-src.js"></script>
-        
-        
-        
-            
-        
+
+
+
+
+
             <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/leaflet.markercluster.js"></script>
-        
-        
-        
-            
-        
+
+
+
+
+
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
-        
-        
-        
-            
-        
+
+
+
+
+
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
-        
-        
-        
-            
-        
+
+
+
+
+
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
-        
-        
-        
-            
-        
+
+
+
+
+
             <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" />
-        
-        
-        
-            
-        
+
+
+
+
+
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
-        
-        
-        
-            
-        
+
+
+
+
+
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.Default.css" />
-        
-        
-        
-            
-        
+
+
+
+
+
             <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/0.4.0/MarkerCluster.css" />
-        
-        
-        
-            
-        
+
+
+
+
+
             <link rel="stylesheet" href="https://raw.githubusercontent.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
-        
-        
-        
-            
+
+
+
+
             <style>
 
             html, body {
@@ -107,9 +107,9 @@
                 left:0;
                 }
             </style>
-            
-        
-            
+
+
+
             <style> #map_5811dde9dfa745a982ba35d535e77aab {
                 position : relative;
                 width : 100.0%;
@@ -118,23 +118,23 @@
                 top: 0.0%;
                 }
             </style>
-        
-        
-        
+
+
+
         </head>
         <body>
-            
-        
-            
+
+
+
             <div class="folium-map" id="map_5811dde9dfa745a982ba35d535e77aab" ></div>
-        
-        
-        
+
+
+
         </body>
         <script>
-            
-        
-            
+
+
+
 
             var southWest = L.latLng(-90, -180);
             var northEast = L.latLng(90, 180);
@@ -147,10 +147,10 @@
                                            layers: [],
                                            crs: L.CRS.EPSG3857
                                          });
-            
-        
-        
-            
+
+
+
+
             var tile_layer_9ed539deb39b4956a37afa2f1af04c75 = L.tileLayer(
                 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
                 {
@@ -161,9 +161,9 @@
                     }
                 ).addTo(map_5811dde9dfa745a982ba35d535e77aab);
 
-        
-        
-            
+
+
+
 
             var marker_e5ab5d1f725b489c897f7265152f18a9 = L.marker(
                 [47.65335,-122.311805],
@@ -172,9 +172,9 @@
                     }
                 )
                 .addTo(map_5811dde9dfa745a982ba35d535e77aab);
-            
-        
-            
+
+
+
 
                 var icon_9dbd6152c73045b9ae66ffa8c943a4df = L.AwesomeMarkers.icon({
                     icon: 'info-sign',
@@ -184,22 +184,22 @@
                     extraClasses: 'fa-rotate-0'
                     });
                 marker_e5ab5d1f725b489c897f7265152f18a9.setIcon(icon_9dbd6152c73045b9ae66ffa8c943a4df);
-            
-        
-            
+
+
+
             var popup_88418f0223904ba99e3001428cfeca71 = L.popup({maxWidth: '300'});
 
-            
+
                 var html_752d9acc22054e19a72aa14f06289530 = $('         <div id="html_752d9acc22054e19a72aa14f06289530"                 style="width: 100.0%; height: 100.0%;">                 eScience Institute Data Science Studio (6th floor)</div>                 ')[0];
                 popup_88418f0223904ba99e3001428cfeca71.setContent(html_752d9acc22054e19a72aa14f06289530);
-            
+
 
             marker_e5ab5d1f725b489c897f7265152f18a9.bindPopup(popup_88418f0223904ba99e3001428cfeca71);
 
-            
-        
-        
-            
+
+
+
+
 
             var marker_a01eba00cc0a40849a1933902f8ca8a0 = L.marker(
                 [47.6565,-122.3104],
@@ -208,9 +208,9 @@
                     }
                 )
                 .addTo(map_5811dde9dfa745a982ba35d535e77aab);
-            
-        
-            
+
+
+
 
                 var icon_659c3f1b030a445bb18a19290b994e6e = L.AwesomeMarkers.icon({
                     icon: 'info-sign',
@@ -220,22 +220,22 @@
                     extraClasses: 'fa-rotate-0'
                     });
                 marker_a01eba00cc0a40849a1933902f8ca8a0.setIcon(icon_659c3f1b030a445bb18a19290b994e6e);
-            
-        
-            
+
+
+
             var popup_e1b849dd09f249f68f9eb5d4936532bc = L.popup({maxWidth: '300'});
 
-            
+
                 var html_230599df98b04b418cdbf4e047dcfc05 = $('         <div id="html_230599df98b04b418cdbf4e047dcfc05"                 style="width: 100.0%; height: 100.0%;">                 OUGL - Active Learning Classroom 136 (first floor)</div>                 ')[0];
                 popup_e1b849dd09f249f68f9eb5d4936532bc.setContent(html_230599df98b04b418cdbf4e047dcfc05);
-            
+
 
             marker_a01eba00cc0a40849a1933902f8ca8a0.bindPopup(popup_e1b849dd09f249f68f9eb5d4936532bc);
 
-            
-        
-        
-            
+
+
+
+
 
             var marker_e47ba93400b14ab5834ce16a0ecf0e04 = L.marker(
                 [47.65566,-122.315011],
@@ -244,9 +244,9 @@
                     }
                 )
                 .addTo(map_5811dde9dfa745a982ba35d535e77aab);
-            
-        
-            
+
+
+
 
                 var icon_2189b0877a5e4977930126d98910d5a8 = L.AwesomeMarkers.icon({
                     icon: 'info-sign',
@@ -256,21 +256,20 @@
                     extraClasses: 'fa-rotate-0'
                     });
                 marker_e47ba93400b14ab5834ce16a0ecf0e04.setIcon(icon_2189b0877a5e4977930126d98910d5a8);
-            
-        
-            
+
+
+
             var popup_5736c9b1ebe04658bbcb2a9606d76bc8 = L.popup({maxWidth: '300'});
 
-            
+
                 var html_70374634dde64429a29d61ec762b8bd3 = $('         <div id="html_70374634dde64429a29d61ec762b8bd3"                 style="width: 100.0%; height: 100.0%;">                 Lander Hall</div>                 ')[0];
                 popup_5736c9b1ebe04658bbcb2a9606d76bc8.setContent(html_70374634dde64429a29d61ec762b8bd3);
-            
+
 
             marker_e47ba93400b14ab5834ce16a0ecf0e04.bindPopup(popup_5736c9b1ebe04658bbcb2a9606d76bc8);
 
-            
+
+
         
-        
-        
+
         </script>
-        
