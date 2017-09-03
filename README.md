@@ -65,6 +65,10 @@ To maximally benefit from Neurohackweek, participants should install the softwar
 
 Though we suggest installing everything on the [provided list](https://neurohackweek.github.io/nhw2017/setup/), the most critical elements--without which you're probably going to have a bad time at Neurohackweek--are the bash shell (which is already built into the operating system if you're on Linux or OS X), git, and a good text editor (or, if you're fancy, a full-blown IDE).. Additionally, because most of the instruction in the course will be conducted in Python, we also strongly encourage everyone to have a working Python environment. To round things out, we suggest installing RStudio and Docker, which will be used for various tutorials and demonstrations.
 
+### Jupyterhub
+
+In addition to an installation of the software on your own machine, and in case there is any software that you did not manage to install, we also prepared a deployment of Jupyterhub that has much of the software already installed. You can log into this deployment with your Github user account at: https://neurohackweek.github.io/jupyterhub.
+
 ### Code of Conduct
 Neurohackweek is dedicated to providing a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the organizers.
 
