@@ -44,6 +44,7 @@ We are fortunate to have a stellar rotating cast of instructors at Neurohackweek
 * [Satra Ghosh](http://satra.cogitatum.org/) (MIT)
 * [Chris Gorgolewski](https://plus.google.com/+ChrisFiloGorgolewski/about) (Stanford University)
 * [Bernease Herman](http://escience.washington.edu/people/bernease-herman/) (UW eScience)
+* [Chris Holdgraf](https://bids.berkeley.edu/people/chris-holdgraf) (University of California, Berkeley)
 * [Anisha Keshavan](http://www.github.com/akeshavan/) (University of Washington)
 * [Tara Madhyastha](http://ibic.washington.edu/madhyastha) (University of Washington)
 * [Jeanette Mumford](http://mumford.fmripower.org/) (University of Wisconsin, Madison)
