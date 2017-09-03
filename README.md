@@ -1,14 +1,13 @@
 # Neurohackweek 2017
 
-Neurohackweek 2017 is a 5-day hands-on workshop in neuroimaging and data science, held at the University of Washington eScience Institute, September 4th-8th, 2017.
+Neurohackweek 2017 is a 5-day hands-on workshop in neuroimaging and data science, held at the University of Washington [eScience Institute](http://escience.washington.edu/)s, September 4th-8th, 2017.
 
 Participants will learn about technologies used to analyze human neuroscience data and develop the skills needed to make their analyses and results shareable, transparent, and reproducible.
 
 ## Quick links
-* [Overview](#overview)
+* [About Neurohackweek](#about-neurohackweek)
 * [Preparing for the course](#preparing-for-the-course)
   * [Install the course software](#install-the-course-software)
-  * [Read the Code of Conduct](#read-the-code-of-conduct)
 * [Code of Conduct](#code-of-conduct)
 * [What to expect](#what-to-expect)
   * [Interaction and collaboration are not optional](#interaction-and-collaboration-are-not-optional)
@@ -17,17 +16,44 @@ Participants will learn about technologies used to analyze human neuroscience da
 * [Schedule](#schedule)
     * [Sunday (9/3)](#sunday-93)
     * [Monday (9/4)](#monday-94)
+      * [Data science tutorials](#monday-afternoon-data-science-tutorials)
     * [Tuesday (9/5)](#tuesday-95)
     * [Wednesday (9/6)](#wednesday-96)
     * [Thursday (9/7)](#thursday-97)
     * [Friday (9/8)](#friday-98)
+      * [Lake Union cruise details](#lake-union-cruise-details)
     * [Saturday (9/9)](#saturday-99)
 * [Projects](#projects)
 
 
-## Overview
+## About Neurohackweek
 
-[will add this shortly]
+Welcome to [Neurohackweek 2017](http://https://neurohackweek.github.io/nhw2017)! Neurohackweek 2017 is an NIH and Moore Foundation-supported 5-day hands-on workshop in neuroimaging and data science held at the University of Washington [eScience Institute](http://escience.washington.edu/), September 4th-8th, 2017. Our goal is to help researchers learn about technologies and tools at the interface between human neuroimaging and data science, and develop the skills needed to make analyses and results shareable, transparent, and reproducible. Neurohackweek is modeled on the successful [Astrohackweek](http://astrohackweek.org/2017/) annual workshop also based at the eScience Institute.
+
+### Participants
+Neurohackweek invites approximately 40 early-career researchers (mostly senior graduate students and postdocs or other junior PhDs) with backgrounds in neuroimaging and/or computational science to spend a week in Seattle collaborating with each other on a range of projects. At the 2017 installment of Neurohackweek, we'll have participants from 8 different countries around the world. Admission is competitive, and in 2016 and 2017, we've unfortunately only able to invite 25% - 30% of applicants. (Thanks to new funding from NIMH, we anticipate increasing attendance at Neurohack 2018 to at least 60 participants.)
+
+### Organizers
+Neurohackweek is directed by [Ariel Rokem](http://arokem.org/) and is supported by an R24 award from the National Institute of Mental Health as well as internal funds from the eScience Institute at UW (eScience is, in turn, supported by the [Moore-Sloane Data Science Environments initiative](http://msdse.org/)). [Tal Yarkoni](http://talyarkoni.org) occasionally helps out with simple tasks like guiding participants to lunch and writing long README files.
+
+### Course faculty
+We are fortunate to have a stellar rotating cast of instructors at Neurohackweek. Our course faculty have expertise in multiple modalities of human neuroimaging and a wide range of areas of data science and informatics. For the 2017 installment of Neurohackweek, faculty include:
+
+* [Bing Brunton](http://faculty.washington.edu/bbrunton/) (University of Washington)
+* [Nicholas Cain](https://alleninstitute.org/what-we-do/brain-science/about/team/staff-profiles/nicholas-cain) (Allen Institute for Brain Sciences)
+* [Satra Ghosh](http://satra.cogitatum.org/) (MIT)
+* [Chris Gorgolewski](https://plus.google.com/+ChrisFiloGorgolewski/about) (Stanford University)
+* [Bernease Herman](http://escience.washington.edu/people/bernease-herman/) (UW eScience)
+* [Anisha Keshavan](http://www.github.com/akeshavan/) (University of Washington)
+* [Tara Madhyastha](http://ibic.washington.edu/madhyastha) (University of Washington)
+* [Jeanette Mumford](http://mumford.fmripower.org/) (University of Wisconsin, Madison)
+* [Russ Poldrack](https://poldracklab.stanford.edu/) Stanford University
+* [JB Poline](https://neurohackweek.github.io/) (McGill University / MNI)
+* [Ariel Rokem](http://arokem.org) (UW eScience)
+* [Valentina Staneva](http://escience.washington.edu/people/valentina-staneva/) (UW eScience)
+* [Jake Vanderplas](http://staff.washington.edu/jakevdp/) (UW eScience)
+* [Tal Yarkoni](https://talyarkoni.org) (University of Texas at Austin)
+
 
 ## Preparing for the course
 We've done our best to streamline the course and ensure that people can hit the ground running on Day 1. However, to ensure that everyone has a good experience both professionally and personally, we'd like everyone to do two things at the outset of Neurohackweek--actually, preferably ahead of the course. The first thing is to install as much of the course software as possible ahead of time, and the second is to read--and take seriously--our [Code of Conduct](#code-of-conduct).
@@ -79,7 +105,7 @@ As we'll discuss on Day 1, we also happen to think that Python is  a particularl
 
 ### What happens at Neurohackweek...
 
-Neurohackweek is, in at least this one respect, not like Vegas: what happens at Neurohackweek doesn't stay at Neurohackweek; instead, it gets shared publicly with the rest of the world. All of the materials from all of the tutorials, break-out sessions, project presentations, etc.--as well as [videos of all of these presentations](https://www.youtube.com/watch?v=dm2fNal3jdc&list=PLEdFhTRBFLObkatJOX9wp3BCueH4wNSl7)--will be posted publicly (ideally, in real-time). We will also be taking photos of the goings-on at Neurohackweek fairly regularly (and you're welcome to as well). We recognize that some people may have reservations about being included in media disseminated on the web, and if you have such concerns, please come and talk to Ariel Rokem or Tal Yarkoni. We will then do our best to try and extirpate you from the record. Please recognize, however, that that sharing course materials, tutorials and projects with the rest of the neuroimaging and data science communities is an explicit goal of Neurohackweek. While we'll gladly acquiesce to any request not to have photos containing one's visage displayed pubicly on the @Neurohackweek Twitter account, we do expect all participants to do their best to publicly share all of the code, text, or other materials they generate during Neuorhackweek (and we will of course be providing lots of instructions and help intended to facilitate the sharing process).
+Neurohackweek is, in at least this one respect, not like Vegas: what happens at Neurohackweek doesn't stay at Neurohackweek; instead, it gets shared publicly with the rest of the world. All of the materials from all of the tutorials, break-out sessions, project presentations, etc.--as well as [videos of all of these presentations](https://www.youtube.com/watch?v=dm2fNal3jdc&list=PLEdFhTRBFLObkatJOX9wp3BCueH4wNSl7)--will be posted publicly (ideally, in real-time). We will also be taking photos of the goings-on at Neurohackweek fairly regularly (and you're welcome to as well). We recognize that some people may have reservations about being included in media disseminated on the web, and if you have such concerns, please come and talk to Ariel Rokem or Tal Yarkoni. We will then do our best to try and extirpate you from the record. Please recognize, however, that that sharing course materials, tutorials and projects with the rest of the neuroimaging and data science communities is an explicit goal of Neurohackweek. While we'll gladly acquiesce to any request not to have photos containing one's visage displayed pubicly on the [@Neurohackweek](https://twitter.com/neurohackweek) Twitter account, we do expect all participants to do their best to publicly share all of the code, text, or other materials they generate during Neuorhackweek (and we will of course be providing lots of instructions and help intended to facilitate the sharing process).
 
 ## Schedule
 
@@ -89,7 +115,13 @@ All events on the schedule will be held in one of four locations: the Lander Hal
 
 ### Sunday (9/3)
 
-Arrival and check in. You can check into the dorms at Lander Hall at any time on Sunday, September 3rd. You will receive a room key as well as a dining card that will grant you access to the dining hall in Lander for breakfast and lunch all week (you are responsible for your own dinner on Tuesday, Wednesday and Thursday). Please be sure to check out by 11 am on Saturday, September 9th.
+*Arrival and check in*. All participants and instructors will be staying in the Lander Hall dorm adjacent to the main UW campus (the full address is Lander Hall, 1201 NE Campus Pkwy, Seattle, WA 98105). To get to Lander from the SeaTac Airport, you have two main options:
+
+  * The cheaper and slower way is via public transportation, which will take about an hour. From the arrival area, follow signs that say "to Link light rail". You'll walk 5 - 10 minutes to the SeaTac Link stop. There, buy a one-way ticket to the University of Washington stop (which is the last stop in the direction of downtown), which will cost $3.25. When you get to the UW Station (do *not* get off at University Station, which is downtown and not at the University of Washington!), exit the station and walk approximately 15 minutes to Lander Hall (you can also take one of several buses if you have large bags, but it won't save you much time, and the walk is quite pleasant if you cut through campus). A more detailed Google Maps map can be found [here](https://www.google.com/maps/dir/SeaTac%2FAirport+Station,+SeaTac,+WA/Lander+Hall,+1201+NE+Campus+Pkwy,+Seattle,+WA+98105/@47.5532447,-122.4461306,11z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x54905cabf91882db:0xa011402986a720f!2m2!1d-122.2970307!2d47.445348!1m5!1m1!1s0x549014f3ba755af3:0x942b03c21f9cc45e!2m2!1d-122.3148976!2d47.655826).
+
+  * Alternatively, you can take a taxi or ride-share directly from the arrival area at the airport to Lander Hall. Barring serious traffic (unlikely on a Sunday), the ride should take 20 - 25 minutes, and will probably cost around $35-$50.
+
+You can check into your room at Lander Hall at any time after 2 pm on Sunday, September 3rd (though your room may be available earlier, and you can temporarily store your bags at the reception if it isn't). Upon check-in, you will receive a room key as well as a conference card that will grant you access to the dining hall in Lander for breakfast and lunch all week (you are responsible for your own dinner on Tuesday, Wednesday and Thursday). Please be sure to check out by 11 am on Saturday, September 9th (you can store your luggage at the desk for the day if you'd like).
 
 
 ### Monday (9/4)
@@ -125,7 +157,7 @@ On Monday afternoon, we will have two parallel tracks of data science tutorials,
 
 8 AM - 9 AM: Breakfast (LH)
 
-9 AM - 12 PM: Cloud computing (Tara Madhyastha; OUGL)
+9 AM - 12 PM: [Cloud computing](https://madhyastha.github.io/neurohackweek2017/) (Tara Madhyastha; OUGL)
 
 12 PM - 1 PM: Lunch (LH)
 
@@ -152,7 +184,7 @@ On Monday afternoon, we will have two parallel tracks of data science tutorials,
 1 PM - 6 PM: Team projects (DSS)
 * Afternoon breakout sessions (optional):
     * 3 PM: Statistical practice in neuroimaging (JB Poline)
-    * 4 PM: Power in fMRI (Jeanette Mumford)
+    * 4 PM: [Efficiency for fMRI](https://github.com/jmumford/nhwEfficiency) (Jeanette Mumford)
 
 6 PM - 12 AM: Dinner (on your own) and hackathon sessions (LH)
 
