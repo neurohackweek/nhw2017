@@ -1,87 +1,111 @@
-# Schedule
+## Schedule
 
-### Sunday (9/4)
+The NHW17 schedule consists of several different kinds of events: data science tutorials; traditional lectures; hacking/team project sessions; and break-out sessions. Oh, and meals. Meals are also a kind of event that we will have, because in past years we've found that Neurohackweek participants learn and contribute more when they're not suffering from starvation.
 
-Arrival and check in (details TBD)
+All events on the schedule will be held in one of four locations: the Lander Hall (LH) residence where all participants and instructors are staying; the Data Science Studio (DSS) on the 6th floor of the Physics-Astronomy Building; the Odegaarde Undergraduate Library (OUGL); and the classrooms on the 5th floor of the Physics-Astronomy Building (PAB5). Locations for all events are indicated in parentheses below using the above abbreviations. The general idea is that breakfast and lunch will always be in Lander Hall, and (at least after Monday) morning sessions will be at the Odegaarde Library while afternoon sessions will be in the Data Science Studio. All of these locations are an easy (and very pleasant) 10-minute walk from one another.
 
-### Monday (9/5)
+### Sunday (9/3)
 
-Physics Astronomy 5th floor
+Arrival and check in. You can check into the dorms at Lander Hall at any time on Sunday, September 3rd. You will receive a room key as well as a dining card that will grant you access to the dining hall in Lander for breakfast and lunch all week (you are responsible for your own dinner on Tuesday, Wednesday and Thursday). Please be sure to check out by 11 am on Saturday, September 9th.
 
-9 AM : Welcome and introduction (Ariel, Tal, and everyone)
 
-10 AM : Introduction to Data Science (Fernando)
+### Monday (9/4)
 
-10:45 : Coffee break
+The schedule on Monday is a little different from the rest of the week, in that the afternoon will consist of data science tutorials rather than team project/hacking sessions. The idea is to make sure that everyone has the basic skills needed in order to jump in and contribute to the group projects the rest of the week.
 
-11 AM : Data science tools -- tutorials (Data Science Studio):
+* 8 AM - 9 AM: Breakfast (LH)
 
-| Time | Room 1 (TBD) | Room 2 (TBD) | Room 3 (TBD) |
-|:------------- |:-----:|:-----:|:-----:|
-| 11 AM - noon | Unix shell (Beginners) | Advanced Unix and Make | Docker |
-| noon - 1 PM | Lunch | Lunch | Lunch |
-| 1 - 2 PM | Git/Github 1 | Python programming 1 | Python tips and tricks |
-| 2 - 3 PM | Git/Github 2 | Python programming 2 | IPython tips and tricks |
-| 3 - 4 PM | Python programming 1 | Advanced data manipulation (Pandas/xray) | Software testing |
-| 4 - 5 PM | Python programming 2 | Parallel computing with Spark | Advanced Unix and Make |
-| 5 - 6 PM | Software testing | Data visualization | Cython |
+* 9 AM - 10:30 AM: Introduction to Neurohackweek (Ariel Rokem; PAB5)
 
-6 PM : Welcome reception (Data Science Studio)
+* 10:30 AM - 12 PM: Reproducibility in fMRI: What is the problem? (Russ Poldrack; PAB5)
 
-### Tuesday (9/6)
+* 12 PM - 1 PM: Lunch (LH)
 
-9 - 11: Using Cloud computing for neuroimaging analysis (Cameron)
+* 1 PM - 6 PM : Data science tutorials (PAB5)
+* 7 PM : Welcome reception (DSS)
 
-11 - noon:  Open data-sets for neuroimaging hacking (Tal)
+#### Monday afternoon data science tutorials
+On Monday afternoon, we will have two parallel tracks of data science tutorials, held simultaneously in different rooms. You're welcome to move between rooms as you like. We've tried to organize the tutorials in such a way as to maximize the differences between the topics being covered at any given time, but it's inevitable that some people will want to attend both of the tutorials being held at a given time. While the instructor cloning machine we purchased last year is currently out of service, the good news is that video recordings and materials for all of the tutorials will be immediately available online, so you'll be able to catch out on what you missed in short order if you so choose. Also, most of the tutorial instructors on Day 1 will be hanging around for most or all of the rest of the week, and you should feel very free to approach them if you have any questions about anything they covered (or for that matter, about related topics taht they didn't cover).
 
-noon - 1 Lunch
+| Time | Room 1 | Room 2 |
+|:------------- |:-----:|:-----:|
+| 1 - 2 PM | Unix shell 1 (Valentina) | Best practices in scientific computing (Chris) |
+| 2 - 3 PM | Unix shell 1 (Valentina) | Best practices in scientific computing (Chris) |
+| 3 - 4 PM | Git/GitHub 1 (Bernease) | Web development (Anisha) |
+| 4 - 5 PM | Git/GitHub 2 (Bernease) | Jupyter/Interactive computing (Dylan) |
+| 5 - 6 PM | Python programming 1 (Tal) | Intro to R (Jeanette) |
+| 6 - 7 PM | Python programming 2 (Tal) | Intro to R (Jeanette) |
 
-1 - 3 PM: hack project pitches (Physics astronomy 5th floor)
 
-3 - 6 PM Hacking in the DSS
 
-Afternoon breakout session (4:30 PM): AIBS data-sets (Terri)
+### Tuesday (9/5)
 
-### Wednesday (9/7)
+8 AM - 9 AM: Breakfast (LH)
 
-9 - 11: Image processing with scikit-image (Ariel; OUGL)
+9 AM - 12 PM: Cloud computing (Tara Madhyastha; OUGL)
 
-11 - noon: Quantitative and diffusion MRI (Jason; OUGL)
+12 PM - 1 PM: Lunch (LH)
 
-noon - 1 PM: Lunch
+1 PM - 3 PM: Team project pitches (PAB5)
 
-1 - 6 PM : Hacking in the DSS
+3 PM - 6 PM: Team projects (DSS)
+* Afternoon breakout sessions (optional):
+    * 3 PM: AIBS data-sets (Nick Cain)
+    * 4 PM: Advanced data manipulation in pandas (Tal Yarkoni)
 
-Afternoon breakout session (Time TBD): Advanced time-series analysis (Bing)
+6 PM - 12 AM: Dinner (on your own) and hackathon sessions (LH)
 
-### Thursday (9/8)
 
-9 AM - 10 AM: Model evaluation and model comparison in fMRI (Kendrick)
+### Wednesday (9/6)
 
-10 AM - noon: scikit-learn  (Jake, Ariel)
+8 AM - 9 AM: Breakfast (LH)
 
-noon - 1 PM: Lunch
+9 AM - 11 AM: Machine learning (Jake Vanderplas; OUGL)
 
-1 PM - 6 PM: hacking in the DSS
+11 AM - 12 PM: Machine learning in neuroimaging (Chris Holdgraf; OUGL)
 
-Afternoon breakout sessions (2:30 PM): Using GNU Make for reproducible, parallel neuroimaging workflows (Tara), Nilearn (Chris?)
+12 PM - 1 PM: Lunch (LH)
 
-6 PM: evening Seattle outing (TBD)
+1 PM - 6 PM: Team projects (DSS)
+* Afternoon breakout sessions (optional):
+    * 3 PM: Statistical practice in neuroimaging (JB Poline)
+    * 4 PM: Power in fMRI (Jeanette Mumford)
 
-### Friday (9/9)
+6 PM - 12 AM: Dinner (on your own) and hackathon sessions (LH)
 
-9 AM - 10:30 : Towards transparent and reproducible neuroimaging research (Russ?)
 
-10:30 AM - noon : Reproducible research workflows with nipype (Satra, Chris)
+### Thursday (9/7
 
-noon - 1 PM: lunch
+8 AM - 9 AM: Breakfast (LH)
 
-2 PM: Project presentations (Physics/Astronomy tower 5th floor)
+9 AM - 12 PM: Neuroimaging pipelines (Satra Ghosh; OUGL)
 
-5 PM: Summary and feedback
+12 PM - 1 PM: Lunch (LH)
 
-6 PM: Farewell reception (Data Science Studio)
+3 - 6 PM: Team projects (DSS)
+* Afternoon breakout sessions (optional):
+    * 3 PM: Advanced time-series analysis (Bing Brunton)
 
-### Saturday
+6 PM - 12 AM: Dinner (on your own) and hackathon sessions (LH)
 
-Check out and departure (details TBD)
+
+### Friday (9/8)
+
+8 AM - 9 AM: Breakfast (LH)
+
+9 AM - 12 PM: Team projects (DSS)
+
+12 PM - 1 PM: Lunch (LH)
+
+1 PM - 2 PM: Team projects (DSS)
+
+2 PM - 5 PM: Project presentations (DSS)
+
+5 PM - 6 PM: Summary and feedback (PAB5)
+
+6:30 PM: Farewell reception and Lake Union Cruise
+
+
+### Saturday (9/9)
+
+**Check out and departure.** Sadly, all good things must come to an end. In this case, the end must come by 11 am on Saturday, September 9th--when is the latest you can check out of Lander Hall.
