@@ -135,7 +135,7 @@ You can check into your room at Lander Hall at any time after 2 pm on Sunday, Se
 
 The schedule on Monday is a little different from the rest of the week, in that the afternoon will consist of data science tutorials rather than team project/hacking sessions. The idea is to make sure that everyone has the basic skills needed in order to jump in and contribute to the group projects the rest of the week.
 
-* 8 AM - 8:35 AM: Breakfast (LH)
+* 7 AM - 8:35 AM: Breakfast (LH)
 
 * 8:35 AM: Meet at the Lander check-in desk to walk over together to the Physics-Astronomy Building. Note that the building will be locked for the Labor Day holiday, so please be at the reception at 8:35 AM (otherwise you'll have to ask someone on Slack to come down and let you in).
 
@@ -168,7 +168,7 @@ For the days Tuesday through Thursday, we'll adopt a fairly fixed schedule: we'l
 
 Remember that no dinner is provided on Tuesday through Thursday, so you're on your own for those days. We encourage you to explore the neighborhoods around campus and/or other parts of the city--Seattle has fantastic food options at all budget levels.
 
-8 AM - 9 AM: Breakfast (LH)
+7 AM - 9 AM: Breakfast (LH)
 
 9 AM - 12 PM: [Cloud computing](https://madhyastha.github.io/neurohackweek2017/) (Tara Madhyastha; OUGL)
 
@@ -186,7 +186,7 @@ Remember that no dinner is provided on Tuesday through Thursday, so you're on yo
 
 ### Wednesday (9/6)
 
-8 AM - 9 AM: Breakfast (LH)
+7 AM - 9 AM: Breakfast (LH)
 
 9 AM - 11 AM: Machine learning (Jake Vanderplas; OUGL)
 
@@ -204,7 +204,7 @@ Remember that no dinner is provided on Tuesday through Thursday, so you're on yo
 
 ### Thursday (9/7
 
-8 AM - 9 AM: Breakfast (LH)
+7 AM - 9 AM: Breakfast (LH)
 
 9 AM - 12 PM: Neuroimaging pipelines (Satra Ghosh; OUGL)
 
@@ -219,7 +219,7 @@ Remember that no dinner is provided on Tuesday through Thursday, so you're on yo
 
 ### Friday (9/8)
 
-8 AM - 9 AM: Breakfast (LH)
+7 AM - 9 AM: Breakfast (LH)
 
 9 AM - 12 PM: Team projects (DSS)
 
