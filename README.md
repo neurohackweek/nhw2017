@@ -238,3 +238,5 @@ Getting to the AGC Marina by public transport is straightforward. Bus line 70 pi
 ## Acknowledgements
 
 Neurohackweek is supported through a grant from the National Institute for Mental Health, and through a grant from the Gordon and Betty Moore Foundation and the Alfred P. Sloan Foundation to the University of Washington eScience Institute Data Science Environment.
+
+We are also grateful for a close collaboration with the [Jupyterhub](https://jupyterhub.readthedocs.io/en/latest/) team and for their help in setting up our deployment of Jupyterhub.
