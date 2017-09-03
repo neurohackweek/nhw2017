@@ -34,7 +34,7 @@ Welcome to [Neurohackweek 2017](http://https://neurohackweek.github.io/nhw2017)!
 Neurohackweek invites approximately 40 early-career researchers (mostly senior graduate students and postdocs or other junior PhDs) with backgrounds in neuroimaging and/or computational science to spend a week in Seattle collaborating with each other on a range of projects. At the 2017 installment of Neurohackweek, we'll have participants from 8 different countries around the world. Admission is competitive, and in 2016 and 2017, we've unfortunately only able to invite 25% - 30% of applicants. (Thanks to new funding from NIMH, we anticipate increasing attendance at Neurohack 2018 to at least 60 participants.)
 
 ### Organizers
-Neurohackweek is directed by [Ariel Rokem](http://arokem.org/) and is supported by an R24 award from the National Institute of Mental Health as well as internal funds from the eScience Institute at UW (eScience is, in turn, supported by the [Moore-Sloane Data Science Environments initiative](http://msdse.org/)). [Tal Yarkoni](http://talyarkoni.org) occasionally helps out with simple tasks like guiding participants to lunch and writing long README files.
+Neurohackweek is directed by [Ariel Rokem](http://arokem.org/) and [Tal Yarkoni](http://talyarkoni.org) and is supported by an R25 award from the National Institute of Mental Health as well as by the [Moore-Sloan Data Science Environments initiative](http://msdse.org/).
 
 ### Course faculty
 We are fortunate to have a stellar rotating cast of instructors at Neurohackweek. Our course faculty have expertise in multiple modalities of human neuroimaging and a wide range of areas of data science and informatics. For the 2017 installment of Neurohackweek, faculty include:
