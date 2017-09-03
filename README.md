@@ -130,7 +130,9 @@ You can check into your room at Lander Hall at any time after 2 pm on Sunday, Se
 
 The schedule on Monday is a little different from the rest of the week, in that the afternoon will consist of data science tutorials rather than team project/hacking sessions. The idea is to make sure that everyone has the basic skills needed in order to jump in and contribute to the group projects the rest of the week.
 
-* 8 AM - 9 AM: Breakfast (LH)
+* 8 AM - 8:35 AM: Breakfast (LH)
+
+* 8:35 AM: Meet at the Lander check-in desk to walk over together to the Physics-Astronomy Building. Note that the building will be locked for the Labor Day holiday, so please be at the reception at 8:35 AM (otherwise you'll have to ask someone on Slack to come down and let you in).
 
 * 9 AM - 10:30 AM: Introduction to Neurohackweek (Ariel Rokem; PAB5)
 
