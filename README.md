@@ -47,6 +47,7 @@ We are fortunate to have a stellar rotating cast of instructors at Neurohackweek
 * [Anisha Keshavan](http://www.github.com/akeshavan/) (University of Washington)
 * [Tara Madhyastha](http://ibic.washington.edu/madhyastha) (University of Washington)
 * [Jeanette Mumford](http://mumford.fmripower.org/) (University of Wisconsin, Madison)
+* [Dylan Nielson](https://ngsp.osu.edu/people/dylan.nielson) (NIMH)
 * [Russ Poldrack](https://poldracklab.stanford.edu/) Stanford University
 * [JB Poline](https://neurohackweek.github.io/) (McGill University / MNI)
 * [Ariel Rokem](http://arokem.org) (UW eScience)
