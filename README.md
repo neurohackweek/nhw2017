@@ -67,6 +67,10 @@ To maximally benefit from Neurohackweek, participants should install the softwar
 
 Though we suggest installing everything on the [provided list](https://neurohackweek.github.io/nhw2017/setup/), the most critical elements--without which you're probably going to have a bad time at Neurohackweek--are the bash shell (which is already built into the operating system if you're on Linux or OS X), git, and a good text editor (or, if you're fancy, a full-blown IDE). Additionally, because most of the instruction in the course will be conducted in Python, we also strongly encourage everyone to have a working Python environment. To round things out, we suggest installing RStudio and Docker, which will be used for various tutorials and demonstrations.
 
+### Jupyterhub
+
+In addition to an installation of the software on your own machine, and in case there is any software that you did not manage to install, we also prepared a deployment of Jupyterhub that has much of the software already installed. You can log into this deployment with your Github user account at: https://neurohackweek.github.io/jupyterhub.
+
 ### Code of Conduct
 Neurohackweek is dedicated to providing a harassment-free learning experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the organizers.
 
@@ -132,7 +136,7 @@ You can check into your room at Lander Hall at any time after 2 pm on Sunday, Se
 
 The schedule on Monday is a little different from the rest of the week, in that the afternoon will consist of data science tutorials rather than team project/hacking sessions. The idea is to make sure that everyone has the basic skills needed in order to jump in and contribute to the group projects the rest of the week.
 
-* 8 AM - 8:35 AM: Breakfast (LH)
+* 7 AM - 8:35 AM: Breakfast (LH)
 
 * 8:35 AM: Meet at the Lander check-in desk to walk over together to the Physics-Astronomy Building. Note that the building will be locked for the Labor Day holiday, so please be at the reception at 8:35 AM (otherwise you'll have to ask someone on Slack to come down and let you in).
 
@@ -152,7 +156,7 @@ On Monday afternoon, we will have two parallel tracks of data science tutorials,
 |:------------- |:-----:|:-----:|
 | 1 - 2 PM | Unix shell 1 (Valentina) | Best practices in scientific computing (Chris) |
 | 2 - 3 PM | Unix shell 1 (Valentina) | Best practices in scientific computing (Chris) |
-| 3 - 4 PM | Git/GitHub 1 (Bernease) | Web development (Anisha) |
+| 3 - 4 PM | Git/GitHub 1 (Bernease) | Intro to data viz with D3.js (Anisha) |
 | 4 - 5 PM | Git/GitHub 2 (Bernease) | Jupyter/Interactive computing (Dylan) |
 | 5 - 6 PM | Python programming 1 (Tal) | Intro to R (Jeanette) |
 | 6 - 7 PM | Python programming 2 (Tal) | Intro to R (Jeanette) |
@@ -165,7 +169,7 @@ For the days Tuesday through Thursday, we'll adopt a fairly fixed schedule: we'l
 
 Remember that no dinner is provided on Tuesday through Thursday, so you're on your own for those days. We encourage you to explore the neighborhoods around campus and/or other parts of the city--Seattle has fantastic food options at all budget levels.
 
-8 AM - 9 AM: Breakfast (LH)
+7 AM - 9 AM: Breakfast (LH)
 
 9 AM - 12 PM: [Cloud computing](https://madhyastha.github.io/neurohackweek2017/) (Tara Madhyastha; OUGL)
 
@@ -183,7 +187,7 @@ Remember that no dinner is provided on Tuesday through Thursday, so you're on yo
 
 ### Wednesday (9/6)
 
-8 AM - 9 AM: Breakfast (LH)
+7 AM - 9 AM: Breakfast (LH)
 
 9 AM - 11 AM: Machine learning (Jake Vanderplas; OUGL)
 
@@ -201,7 +205,7 @@ Remember that no dinner is provided on Tuesday through Thursday, so you're on yo
 
 ### Thursday (9/7
 
-8 AM - 9 AM: Breakfast (LH)
+7 AM - 9 AM: Breakfast (LH)
 
 9 AM - 12 PM: Neuroimaging pipelines (Satra Ghosh; OUGL)
 
@@ -216,7 +220,7 @@ Remember that no dinner is provided on Tuesday through Thursday, so you're on yo
 
 ### Friday (9/8)
 
-8 AM - 9 AM: Breakfast (LH)
+7 AM - 9 AM: Breakfast (LH)
 
 9 AM - 12 PM: Team projects (DSS)
 
