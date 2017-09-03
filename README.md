@@ -79,7 +79,7 @@ As we'll discuss on Day 1, we also happen to think that Python is  a particularl
 
 ### What happens at Neurohackweek...
 
-[will add shortly]
+Neurohackweek is, in at least this one respect, not like Vegas: what happens at Neurohackweek doesn't stay at Neurohackweek; instead, it gets shared publicly with the rest of the world. All of the materials from all of the tutorials, break-out sessions, project presentations, etc.--as well as [videos of all of these presentations](https://www.youtube.com/watch?v=dm2fNal3jdc&list=PLEdFhTRBFLObkatJOX9wp3BCueH4wNSl7)--will be posted publicly (ideally, in real-time). We will also be taking photos of the goings-on at Neurohackweek fairly regularly (and you're welcome to as well). We recognize that some people may have reservations about being included in media disseminated on the web, and if you have such concerns, please come and talk to Ariel Rokem or Tal Yarkoni. We will then do our best to try and extirpate you from the record. Please recognize, however, that that sharing course materials, tutorials and projects with the rest of the neuroimaging and data science communities is an explicit goal of Neurohackweek. While we'll gladly acquiesce to any request not to have photos containing one's visage displayed pubicly on the @Neurohackweek Twitter account, we do expect all participants to do their best to publicly share all of the code, text, or other materials they generate during Neuorhackweek (and we will of course be providing lots of instructions and help intended to facilitate the sharing process).
 
 ## Schedule
 
