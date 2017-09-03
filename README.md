@@ -15,13 +15,13 @@ Participants will learn about technologies used to analyze human neuroscience da
   * [A note on programming languages](#a-note-on-programming-languages)
   * [What happens at Neurohackweek...](#what-happens-at-neurohackweek)
 * [Schedule](#schedule)
-    * [Sunday (9/3)](sunday-9-3)
-    * [Monday (9/4)](monday-9-3)
-    * [Tuesday (9/5)](tuesday-9-3)
-    * [Wednesday (9/6)](wednesday-9-3)
-    * [Thursday (9/7)](thursday-9-3)
-    * [Friday (9/8)](friday-9-3)
-    * [Saturday (9/9)](saturday-9-3)
+    * [Sunday (9/3)](sunday-93)
+    * [Monday (9/4)](monday-94)
+    * [Tuesday (9/5)](tuesday-95)
+    * [Wednesday (9/6)](wednesday-96)
+    * [Thursday (9/7)](thursday-97)
+    * [Friday (9/8)](friday-98)
+    * [Saturday (9/9)](saturday-99)
 * [Projects](#projects)
 
 
@@ -180,14 +180,18 @@ On Monday afternoon, we will have two parallel tracks of data science tutorials,
 
 12 PM - 1 PM: Lunch (LH)
 
-1 PM - 2 PM: Team projects (DSS)
+1 PM - 4:00 PM: Project presentations (DSS)
 
-2 PM - 5 PM: Project presentations (DSS)
+4:00 PM - 5:00 PM: Summary and feedback (PAB5)
 
-5 PM - 6 PM: Summary and feedback (PAB5)
+6:00 PM: Meet at AGC Marina to board cruise boat
 
 6:30 PM: Farewell reception and Lake Union Cruise
 
+#### Lake Union cruise details
+On the last night of Neurohackweek, we'll have a farewell reception aboard a cruise on Lake Union. We have to be at the AGC Marina at 6:00 PM to board our cruise boat; sailing time is 6:30 PM sharp (anyone not on board by 6:30 PM gets left behind, sadly).
+
+Getting to the AGC Marina by public transport is straightforward. Bus line 70 picks up on 15th Ave and Campus Parkway, and drops off at SLU, a short walk from the AGC marina. The trip takes around half an hour (but allow for traffic when planning!), and one-way fare is $2.50. Alternatively, you can take a car-share or taxi to the Marina. Depending on traffic, the car ride takes anywhere from 12 to 25 minutes, and should cost $10 - $20.
 
 ### Saturday (9/9)
 
