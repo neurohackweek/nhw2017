@@ -154,8 +154,8 @@ On Monday afternoon, we will have two parallel tracks of data science tutorials,
 
 | Time | Room 1 | Room 2 |
 |:------------- |:-----:|:-----:|
-| 1 - 2 PM | Unix shell 1 (Valentina) | Best practices in scientific computing (Chris) |
-| 2 - 3 PM | Unix shell 1 (Valentina) | Best practices in scientific computing (Chris) |
+| 1 - 2 PM | Unix shell 1 (Valentina) | Best practices in scientific computing (Chris): Software containers (Docker) |
+| 2 - 3 PM | Unix shell 1 (Valentina) | Best practices in scientific computing (Chris): Software testing |
 | 3 - 4 PM | Git/GitHub 1 (Bernease) | Intro to data viz with D3.js (Anisha) |
 | 4 - 5 PM | Git/GitHub 2 (Bernease) | Jupyter/Interactive computing (Dylan) |
 | 5 - 6 PM | Python programming 1 (Tal) | Intro to R (Jeanette) |
