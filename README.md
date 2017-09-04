@@ -56,6 +56,10 @@ We are fortunate to have a stellar rotating cast of instructors at Neurohackweek
 * [Jake Vanderplas](http://staff.washington.edu/jakevdp/) (UW eScience)
 * [Tal Yarkoni](https://talyarkoni.org) (University of Texas at Austin)
 
+## Meme theme
+The official meme theme for #NHW17 is "squirrels".
+
+![Alt Text](https://media.giphy.com/media/NAjPVFHtXyc6s/giphy.gif)
 
 ## Preparing for the course
 We've done our best to streamline the course and ensure that people can hit the ground running on Day 1. However, to ensure that everyone has a good experience both professionally and personally, we'd like everyone to do two things at the outset of Neurohackweek--actually, preferably ahead of the course. The first thing is to install as much of the course software as possible ahead of time, and the second is to read--and take seriously--our [Code of Conduct](#code-of-conduct).
