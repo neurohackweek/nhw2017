@@ -203,7 +203,7 @@ Remember that no dinner is provided on Tuesday through Thursday, so you're on yo
 6 PM - 12 AM: Dinner (on your own) and hackathon sessions (LH)
 
 
-### Thursday (9/7
+### Thursday (9/7)
 
 7 AM - 9 AM: Breakfast (LH)
 
