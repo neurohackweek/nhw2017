@@ -226,7 +226,7 @@ Remember that no dinner is provided on Tuesday through Thursday, so you're on yo
 
 12 PM - 1 PM: Lunch (LH)
 
-1 PM - 4:00 PM: Project presentations (DSS)
+1 PM - 4:00 PM: Project presentations (PAB5)
 
 4:00 PM - 5:00 PM: Summary and feedback (PAB5)
 
