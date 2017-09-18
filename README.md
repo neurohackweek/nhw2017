@@ -254,6 +254,67 @@ Contributors: Tom Donoghue, Ayala Allon, Basak Kilic, Eric Reavis, Mengya Xhiang
 
 https://github.com/neurohackweek/DataDrivenCognitiveOntology
 
+### We can’t abide ABIDE: Identifying multi-site issues 
+
+(Team members: Shruti, Scott, Suyash, Dora) Code: its-going-to-be-there, along with plots!
+
+### fMRI Avalanches 
+
+https://github.com/neurohackweek/avalanche.
+
+### Medulina.com Crowdsourcing Image Segmentation 
+
+(team members: Anisha, Dylan, Kesshi, Alejandro). 
+
+Link to slides: https://drive.google.com/open?id=1Mik0V0C5EPATg4ls1E0jgyBHqN8WFZL3wmTic 
+Code: https://github.com/medulina
+
+### Deep learning & Preprocessing for brain lesions segmentation 
+
+Contributors: @mikhail, @dewarren
+
+Slides: https://docs.google.com/presentation/d/1Pd6_g_TnD-tNzub8yM61_Fj9CWnwXABjJiEpYsMJYzQ/edit#slide=id.g253a1b17ef_0_71 . 
+
+Code: https://github.com/mibel/mri_segmentation_dl 
+
+### Using machine learning to predict individual differences(team members: Patrick, Dani, Kevin, Jeanette, Sumedha, Gary, Thomas, Julia). 
+Code: https://github.com/neurohackweek/HCP_MachineLearning
+Slides: https://docs.google.com/presentation/d/1inSH-0V1oWEwX9v53SKM8NBtVxS9mpjhJbbYdKeaXc4/edit#slide=id.g260932d089_4_9
+
+### Open neuro data science course 
+
+Team members: Satra + Chris + a ton of other people 
+
+https://github.com/neuro-data-science/neuro_data_science/issues/14
+https://github.com/neuro-data-science/neuroML
+
+### Boto-bench
+
+AWSome stuff, but not really, it’s more like rAWSignal or nAWSombody else should figure out AWS Lambda 
+
+Team: Daniel Moyer
+
+Code: https://github.com/dcmoyer/boto_bench
+
+### Peaks2maps 
+
+Team members: Chris, Tal + Sumedha 
+Code: https://github.com/chrisfilo/peaks2maps 
+
+### Niwidgets + ipyvolume
+
+3D surface visualizations as well as interactive 3D volume and surface visualizations. 
+
+Team members: Murat Bilgel, Benjamin Ely, Melanie Ganz, Krisanne Litinas, and Andrea Shafer, heavily indebted to Satra Ghosh, Chris Holdgraf, Anisha Keshavan, and Tal Yarkoni
+
+Code: https://github.com/neurohackweek/NHW_visualization and https://github.com/neurohackweek/niwidgets
+
+### Pynets : integrated network analysis
+
+Team members: Derek, Grace, James, Aki, Josh
+
+Code https://github.com/dpisner453/PyNets 
+
 ## Acknowledgements
 
 Neurohackweek is supported through a grant from the National Institute for Mental Health, and through a grant from the Gordon and Betty Moore Foundation and the Alfred P. Sloan Foundation to the University of Washington eScience Institute Data Science Environment.
